@@ -1,7 +1,2 @@
-#Automated-MCQ-Generator-Using-Langchain-OpenAI-API
-#learning
-
-
-#learing the mcq generatio
-#Resolvd merge confilcts between langchain and openai api 
-#this is my 
+from src.mcqgenerator.logger import logging
+logging.info("hi, i m ready in github codespaces...")
