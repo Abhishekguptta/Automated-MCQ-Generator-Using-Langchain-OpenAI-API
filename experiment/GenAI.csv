@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-What is a common architecture used in generative AI for creating new data?,a: Decision Trees | b: Generative Adversarial Networks (GANs) | c: Linear Regression | d: Support Vector Machines,b
-Which field uses generative AI for creating music in various styles?,a: Medicine | b: Finance | c: Music Composition | d: Engineering,c
-What is a key challenge associated with generative AI related to bias?,a: Resource Intensity | b: Creativity and Ownership | c: Bias and Fairness | d: Misinformation,c
-Which type of AI model focuses on creating new content rather than making predictions or classifications?,a: Reinforcement Learning | b: Generative AI | c: Supervised Learning | d: Unsupervised Learning,b
-What is a common application of generative AI in creating synthetic data?,a: Generating music | b: Creating deepfake videos | c: Writing articles | d: Training other AI models,d
+"What type of artificial intelligence models focus on generating new, original content?",a: Predictive AI models | b: Generative AI models | c: Classification AI models | d: Reactive AI models,b
+Which architecture consists of a generator and a discriminator that compete to improve each other over time?,a: Variational Autoencoders (VAEs) | b: Transformers | c: Generative Adversarial Networks (GANs) | d: Deep Learning Models,c
+What is one of the applications of Generative AI mentioned in the text?,a: Cooking recipes | b: Music composition | c: Weather forecasting | d: Fitness tracking,b
+What challenge arises from AI models inheriting biases from the data they are trained on?,a: Resource Intensity | b: Misinformation | c: Bias and Fairness | d: Creativity and Ownership,c
+Which type of AI is often used to create synthetic data for training other AI models?,a: Generative AI | b: Predictive AI | c: Classification AI | d: Reactive AI,a
